@@ -1,24 +1,24 @@
 {
   "expo": {
     "name": "STEDI App",
-    "plugins":[
+    "plugins": [
       [
         "expo-build-properties",
         {
-          "ios":{
-            "deploymentTarget":"13.0"
+          "ios": {
+            "deploymentTarget": "13.0"
           }
         }
       ]
     ],
-    "splash":{
-      "image":"./image/icon-img.png"
+    "splash": {
+      "image": "./image/icon-img.png"
     },
     "slug": "stedi-app",
     "icon": "./image/icon-img.png",
     "extra": {
       "eas": {
-        "projectId": "6c98bbd5-98a2-482c-a01d-04a045165bcb"
+        "projectId": "d606c9af-322d-46e2-8dcc-bd5641dd3239"
       }
     },
     "ios": {
